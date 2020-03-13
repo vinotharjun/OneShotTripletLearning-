@@ -1,5 +1,5 @@
 # OneShotTripletLearning
-Pytorch implementation of one shot learning for facial embedding . The model is trained on dlib aligned pinterest faces (https://www.kaggle.com/frules11/pins-face-recognition/)
+Pytorch implementation of one shot learning for facial embedding . The model is trained on dlib aligned pinterest faces (https://www.kaggle.com/hereisburak/pins-face-recognition)
 
 # Steps to use this repo
 ``` bash
